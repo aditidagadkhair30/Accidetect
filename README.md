@@ -24,7 +24,7 @@ Accidetect is a Flask web application designed to automate the process of accide
 ```bash
 pip install -r requirements.txt
 ```
-3. Save model.h5 to **artifacts/**
+3. Save best.pt to **artifacts/**
 
 4. Run the command:
 ```bash
