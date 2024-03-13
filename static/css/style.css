@@ -2,6 +2,7 @@ body{
     padding: 0;
     margin: 0;
     /* background-color: #E8F9FD; */
+    background-color: #d4eef7;
 }
 
 .navbar-main {
@@ -220,7 +221,7 @@ input{
     width: 200px;
     margin: 20px;
     border-radius: 100%;
-    box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(255, 85, 85) 0px 0px 0px 10px;
+    box-shadow: rgb(130, 134, 251) 0px 0px 0px 3px;
   }
 
   .team-member-name{
@@ -232,10 +233,7 @@ input{
 
 
   .dashed {
-    --b: 5px;  /* border thickness */
-    --s: 30px; /* size of the dashes */
-    --c1: #215A6D;
-    --c2: #92C7A3;
+    
     
     width: 250px;
     aspect-ratio: 1;
@@ -270,6 +268,7 @@ input{
 }
 .dashed:hover .team-image {
     transform: scale(0.9); /* Zoom out the image */
+    padding: 2px;
 }
 
 /* Result Page CSS */
