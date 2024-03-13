@@ -1,8 +1,12 @@
 body{
     padding: 0;
     margin: 0;
+<<<<<<< HEAD
     /* background-color: #E8F9FD; */
     background-color: #d4eef7;
+=======
+    background-color: #E8F9FD;
+>>>>>>> master
 }
 
 .navbar-main {
@@ -12,13 +16,23 @@ body{
 
 .name {
     margin: 10px;
+<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
+=======
+    font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-style: normal;
+>>>>>>> master
     font-weight: bolder;
     color: #EE4266;
 }
 
 .container-service-main{
     margin: 6% 5% 8%;
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 }
 
 .drop-area {
@@ -31,6 +45,10 @@ body{
     text-align: center;
     align-items: center;
     cursor: pointer;
+<<<<<<< HEAD
+=======
+    background-color: rgb(244, 244, 233);;
+>>>>>>> master
 }
 
 .nav-item,.nav-link{
@@ -182,7 +200,11 @@ input{
   /* About Page CSS */
 
   .about-accidetect-heading{
+<<<<<<< HEAD
     background-color: #EEEEEE;
+=======
+    /* background-color: #EEEEEE;
+>>>>>>> master
     margin-top: 20px;
     display: inline-block;
     padding: 15px;
@@ -191,12 +213,20 @@ input{
     border-radius: 10px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
+<<<<<<< HEAD
     color: #EE4266;
+=======
+    color: #EE4266; */
+>>>>>>> master
   }
 
   .container-about{
     padding: 20px;
+<<<<<<< HEAD
     background-color: #E8F9FD;
+=======
+    background-color:rgb(244, 244, 233);
+>>>>>>> master
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     margin: 2% 5%;
     border-radius: 10px;
@@ -221,20 +251,32 @@ input{
     width: 200px;
     margin: 20px;
     border-radius: 100%;
+<<<<<<< HEAD
     box-shadow: rgb(130, 134, 251) 0px 0px 0px 3px;
+=======
+    box-shadow: rgb(139, 143, 239) 0px 0px 0px 3px;
+>>>>>>> master
   }
 
   .team-member-name{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
+<<<<<<< HEAD
     color: #00337C;
+=======
+    color: #000000;
+>>>>>>> master
   }
 
 
   .dashed {
+<<<<<<< HEAD
     
     
+=======
+        
+>>>>>>> master
     width: 250px;
     aspect-ratio: 1;
     position: relative;
@@ -268,7 +310,11 @@ input{
 }
 .dashed:hover .team-image {
     transform: scale(0.9); /* Zoom out the image */
+<<<<<<< HEAD
     padding: 2px;
+=======
+    padding: 3px;
+>>>>>>> master
 }
 
 /* Result Page CSS */
