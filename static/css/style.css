@@ -29,6 +29,7 @@ font-style: normal;
   border: 2px dashed #ccc;
   text-align: center;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   text-align: center;
   align-items: center;
